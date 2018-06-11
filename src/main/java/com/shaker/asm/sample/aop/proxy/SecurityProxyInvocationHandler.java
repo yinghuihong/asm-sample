@@ -7,7 +7,9 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
 /**
- * 动态代理（基于反射生成代理实例）
+ * JDK动态代理（基于反射生成代理实例）
+ * <p>
+ * https://www.ibm.com/developerworks/cn/java/j-lo-proxy1/
  *
  * @author yinghuihong
  * @date 2018/6/6
